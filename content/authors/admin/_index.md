@@ -6,7 +6,7 @@ title: Chivit Chhoeun
 superuser: true
 
 # Role/position
-role: DevOps Engineer/Writer
+role: DevSecOps Engineer
 
 # Status emoji
 status:
@@ -15,7 +15,7 @@ status:
 # Organizations/Affiliations
 organizations:
   - name: Erply
-    url: ''
+    url: 'erply.com'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I like reading about all kinds of subjects, writing, hiking and playing chess.
@@ -66,4 +66,4 @@ social:
 #email: ""
 ---
 
-Chivit Chhoeun is an enthusiastic learner who likes to read all kinds of subjects from finance to history, politics, psychology and technology. He also enjoys hiking and playing chess.
+Chivit Chhoeun is an enthusiastic learner who likes to read all kinds of subjects from finance to history, politics, psychology and technology. He has experience working with building secure and scalable cloud infrastructure, implementing security compliance and applying DevOps culture. He also enjoys hiking, writing and playing chess.

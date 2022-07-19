@@ -18,5 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Chivit**, a DevOps Engineer at Erply in Estonia.
+🐈 Hey! I'm **Chivit**, a DevSecOps Engineer at Erply in Tallinn, Estonia.
 
