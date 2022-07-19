@@ -14,8 +14,8 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: Erply
-    url: 'erply.com'
+  - name: Erply Retail Platform
+    url: 'https://erply.com'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I like reading about all kinds of subjects, writing, hiking and playing chess.
